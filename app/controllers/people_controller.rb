@@ -3,6 +3,8 @@ class PeopleController < ApplicationController
     
   end
   def tim
+
+  def chad
     
   end
 end
