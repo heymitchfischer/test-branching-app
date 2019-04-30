@@ -2,6 +2,7 @@ class PeopleController < ApplicationController
   def mitch
     
   end
+  def tim
 
   def jamie
 
