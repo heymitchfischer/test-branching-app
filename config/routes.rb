@@ -6,5 +6,5 @@ Rails.application.routes.draw do
   get '/alex' => 'people#alex'
   get '/tim' => 'people#tim'
   get '/brennan' => 'people#brennan'
-
+  get '/kyle' => 'people#kyle'
 end
