@@ -5,5 +5,17 @@ class PeopleController < ApplicationController
 
   def alex
     
+  def tim
+
+  def jamie
+
+  end
+  
+  def chad
+    
+  end
+
+  def brennan
+    
   end
 end
