@@ -7,4 +7,5 @@ Rails.application.routes.draw do
   get '/tim' => 'people#tim'
   get '/brennan' => 'people#brennan'
   get '/kyle' => 'people#kyle'
+  get '/randy' => 'people#randy'
 end

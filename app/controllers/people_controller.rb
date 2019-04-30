@@ -26,6 +26,8 @@ class PeopleController < ApplicationController
   end
 
   def kyle
-    
+  end
+  
+  def randy
   end
 end
