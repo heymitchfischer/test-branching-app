@@ -6,4 +6,12 @@ class PeopleController < ApplicationController
   def josh
     
   end
+
+  def jamie
+
+  end
+  
+  def chad
+    
+  end
 end
