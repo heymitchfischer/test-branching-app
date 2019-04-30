@@ -29,6 +29,5 @@ class PeopleController < ApplicationController
   end
   
   def randy
-    
   end
 end
